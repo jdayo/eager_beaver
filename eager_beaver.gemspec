@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = EagerBeaver::VERSION
   s.authors     = ["Joseph Emmanuel Dayo"]
   s.email       = ["joseph.dayo@gmail.com"]
-  s.homepage    = "TODO"
+  s.homepage    = ""
   s.summary     = "Allow you to force eager loading"
-  s.description = "TODO: Description of EagerBeaver."
+  s.description = "Allow Class.descendants and Class.ancestors to work even in Rails development ode."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]

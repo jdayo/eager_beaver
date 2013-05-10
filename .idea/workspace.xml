@@ -4,7 +4,7 @@
     <list default="true" id="a7fef6f7-7039-40dc-ab71-8f7413b6eae9" name="Default" comment="" />
     <ignored path="eager_beaver.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/eager_beaver.gemspec" changelist="a7fef6f7-7039-40dc-ab71-8f7413b6eae9" time="1368152691343" ignored="false" />
+    <file path="/eager_beaver.gemspec" changelist="a7fef6f7-7039-40dc-ab71-8f7413b6eae9" time="1368153094229" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <file leaf-file-name="eager_beaver.gemspec" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eager_beaver.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="51" selection-start="424" selection-end="424" vertical-scroll-proportion="0.31358886">
+            <state line="13" column="100" selection-start="522" selection-end="522" vertical-scroll-proportion="0.33972126">
               <folding />
             </state>
           </provider>
@@ -302,7 +302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eager_beaver.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="51" selection-start="424" selection-end="424" vertical-scroll-proportion="0.31358886">
+        <state line="13" column="100" selection-start="522" selection-end="522" vertical-scroll-proportion="0.33972126">
           <folding />
         </state>
       </provider>

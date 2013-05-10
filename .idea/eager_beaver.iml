@@ -38,7 +38,6 @@
     <orderEntry type="library" scope="PROVIDED" name="rack-mount (v0.8.3, RVM: ruby-1.9.3-p327 [friendster]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-ssl (v1.3.3, RVM: ruby-1.9.3-p327 [friendster]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, RVM: ruby-1.9.3-p327 [friendster]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails (v3.1.12, RVM: ruby-1.9.3-p327 [friendster]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v3.1.12, RVM: ruby-1.9.3-p327 [friendster]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.0.4, RVM: ruby-1.9.3-p327 [friendster]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12.2, RVM: ruby-1.9.3-p327 [friendster]) [gem]" level="application" />
